@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "trixi-snubic-coupling-examples"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Candelaresi"
+    given-names: "Simon"
+  - family-names: "Torrilhon"
+    given-names: "Manuel"
+    affiliation: "RWTH Aachen University"
+  - family-names: "Schlottke-Lakemper"
+    given-names: "Michael"
+repository-code: "https://github.com/torrilhon/trixi-snubic-coupling-examples"
+url: "https://github.com/torrilhon/trixi-snubic-coupling-examples"
+abstract: >-
+  Lean SNuBIC-facing wrapper repository providing minimal examples, setup
+  helpers, and citation metadata for selected p4est coupling and mesh-view
+  developments in Trixi.jl by Simon Candelaresi. The repository documents the
+  upstream pull-request lineage (Trixi.jl PRs #2110, #2366, #2456, #2598) and
+  is intended as a reproducibility and citation layer, not as a fork of
+  Trixi.jl.
+keywords:
+  - SNuBIC
+  - Trixi.jl
+  - Julia
+  - p4est
+  - coupling
+  - mesh view
+  - structure-preserving numerical methods
+  - scientific computing
+license: BSD-3-Clause
+version: "0.1.0"
+# Date anchored to the merge of the coupling PR #2366 on Trixi.jl `main`.
+date-released: "2026-03-04"

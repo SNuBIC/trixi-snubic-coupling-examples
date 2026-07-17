@@ -1,0 +1,18 @@
+# Environment-only project (no `name`/`uuid`): this repository is a lean set of
+# example drivers and setup helpers, NOT an importable Julia package. Declaring
+# it as a package would make Julia try (and fail) to precompile a non-existent
+# `src/` module. Keeping it environment-only avoids that.
+#
+# This project intentionally does NOT vendor Trixi.jl, and Trixi is NOT listed
+# as a committed dependency here. The setup helper scripts in `scripts/` add
+# Trixi.jl (or a PR-specific revision of it) into this environment on demand,
+# which is what pins the reproducible revision. See README.md and
+# docs/upstream-prs.md.
+
+[deps]
+OrdinaryDiffEqLowStorageRK = "b0944070-b475-4768-8dec-fb6eb410534d"
+OrdinaryDiffEqSSPRK = "669c94d9-1f4b-4b64-b377-1aa079aa2388"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+julia = "1.10"

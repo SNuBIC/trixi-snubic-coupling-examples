@@ -1,0 +1,20 @@
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/deps/deps.jl
+/docs/build/
+
+# Trixi.jl output artifacts
+out/
+*.h5
+*.vtu
+*.pvd
+*.pvtu
+
+# Editor / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
