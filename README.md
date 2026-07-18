@@ -120,12 +120,12 @@ Zenodo DOI:
 
 <!-- Replace <GITHUB_REPO_ID> with the numeric repository id shown by Zenodo
      after enabling the GitHub integration and creating the first release. -->
-[![DOI](https://zenodo.org/badge/<GITHUB_REPO_ID>.svg)](https://zenodo.org/badge/latestdoi/<GITHUB_REPO_ID>)
+[![DOI](https://zenodo.org/badge/21411125.svg)](https://zenodo.org/badge/latestdoi/21411125)
 
 Suggested citation text (see also [`CITATION.cff`](CITATION.cff)):
 
-> Candelaresi, S., Torrilhon, M., Schlottke-Lakemper, M. (2026). *trixi-snubic-coupling-examples*
-> (Version 0.1.0) [Software]. https://github.com/torrilhon/trixi-snubic-coupling-examples
+> Candelaresi, S., Torrilhon, M., Schlottke-Lakemper, M. (2026). *Trixi.jl Model Ccoupling Examples*
+> (Version 0.1.0) [Software]. https://github.com/SNuBIC/trixi-model-coupling-examples
 
 ## Acknowledgement
 
