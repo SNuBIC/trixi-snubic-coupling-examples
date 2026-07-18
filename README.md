@@ -1,4 +1,4 @@
-# trixi-snubic-coupling-examples
+# Trixi.jl Model Coupling Examples
 
 SNuBIC-facing wrapper repository for selected Trixi.jl coupling and mesh-view
 developments by Simon Candelaresi.
