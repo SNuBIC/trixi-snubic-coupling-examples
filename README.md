@@ -118,9 +118,7 @@ branches).
 
 Zenodo DOI:
 
-<!-- Replace <GITHUB_REPO_ID> with the numeric repository id shown by Zenodo
-     after enabling the GitHub integration and creating the first release. -->
-[![DOI](https://zenodo.org/badge/21411125.svg)](https://zenodo.org/badge/latestdoi/21411125)
+[https://zenodo.org/records/21411125](https://zenodo.org/records/21411125)
 
 Suggested citation text (see also [`CITATION.cff`](CITATION.cff)):
 
