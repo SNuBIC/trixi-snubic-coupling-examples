@@ -1,17 +1,19 @@
 cff-version: 1.2.0
-title: "trixi-snubic-coupling-examples"
+title: "trixi-model-coupling-examples"
 message: "If you use this repository, please cite it using the metadata below."
 type: software
 authors:
   - family-names: "Candelaresi"
     given-names: "Simon"
+    affiliation: "University of Augsburg"
   - family-names: "Torrilhon"
     given-names: "Manuel"
     affiliation: "RWTH Aachen University"
   - family-names: "Schlottke-Lakemper"
     given-names: "Michael"
-repository-code: "https://github.com/torrilhon/trixi-snubic-coupling-examples"
-url: "https://github.com/torrilhon/trixi-snubic-coupling-examples"
+    affiliation: "University of Augsburg"
+repository-code: "https://github.com/SNuBIC/trixi-model-coupling-examples"
+url: "https://github.com/SNuBIC/trixi-model-coupling-examples"
 abstract: >-
   Lean SNuBIC-facing wrapper repository providing minimal examples, setup
   helpers, and citation metadata for selected p4est coupling and mesh-view
