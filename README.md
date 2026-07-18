@@ -118,7 +118,7 @@ branches).
 
 Zenodo DOI:
 
-[https://zenodo.org/records/21411125](https://zenodo.org/records/21411125)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21430512.svg)](https://doi.org/10.5281/zenodo.21430512)
 
 Suggested citation text (see also [`CITATION.cff`](CITATION.cff)):
 
