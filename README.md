@@ -122,7 +122,7 @@ Zenodo DOI:
 
 Suggested citation text (see also [`CITATION.cff`](CITATION.cff)):
 
-> Candelaresi, S., Torrilhon, M., Schlottke-Lakemper, M. (2026). *Trixi.jl Model Ccoupling Examples*
+> Candelaresi, S., Torrilhon, M., Schlottke-Lakemper, M. (2026). *Trixi.jl Model Coupling Examples*
 > (Version 0.1.0) [Software]. https://github.com/SNuBIC/trixi-model-coupling-examples
 
 ## Acknowledgement
