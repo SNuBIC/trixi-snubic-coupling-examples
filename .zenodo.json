@@ -1,51 +1,32 @@
 {
-  "title": "trixi-snubic-coupling-examples",
+  "title": "trixi-model-coupling-examples",
+  "version": "0.1.0",
   "description": "Lean SNuBIC-facing wrapper repository for selected Trixi.jl coupling and mesh-view developments by Simon Candelaresi. It provides minimal example drivers, PR-specific setup helpers, and citation metadata around upstream p4est mesh-view coupling work, and documents the upstream pull-request lineage (Trixi.jl PRs #2110, #2366, #2456, #2598).",
   "publication_date": "2026-03-04",
   "creators": [
     {
-      "name": "Candelaresi, Simon"
+      "name": "Candelaresi, Simon",
+      "affiliation": "University of Augsburg"
     },
     {
       "name": "Torrilhon, Manuel",
       "affiliation": "RWTH Aachen University"
     },
     {
-      "name": "Schlottke-Lakemper, Michael"
+      "name": "Schlottke-Lakemper, Michael",
+      "affiliation": "University of Augsburg"
     }
   ],
   "keywords": [
-    "SNuBIC",
-    "Trixi.jl",
-    "p4est",
-    "coupling",
-    "mesh view",
-    "Julia",
-    "structure-preserving numerical methods",
-    "scientific computing"
+    "SNuBIC", "Trixi.jl", "p4est", "coupling", "mesh view",
+    "Julia", "structure-preserving numerical methods", "scientific computing"
   ],
   "license": "BSD-3-Clause",
   "upload_type": "software",
   "related_identifiers": [
-    {
-      "identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2456",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
-    },
-    {
-      "identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2598",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
-    },
-    {
-      "identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2366",
-      "relation": "isDerivedFrom",
-      "resource_type": "software"
-    },
-    {
-      "identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2110",
-      "relation": "isDerivedFrom",
-      "resource_type": "software"
-    }
+    {"identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2456", "relation": "isSupplementTo", "resource_type": "software"},
+    {"identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2598", "relation": "isSupplementTo", "resource_type": "software"},
+    {"identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2366", "relation": "isSupplementTo", "resource_type": "software"},
+    {"identifier": "https://github.com/trixi-framework/Trixi.jl/pull/2110", "relation": "isSupplementTo", "resource_type": "software"}
   ]
 }
